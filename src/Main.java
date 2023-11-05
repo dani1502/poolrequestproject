@@ -4,5 +4,6 @@ public class Main {
         int a = 23;
         System.out.println(a);
         System.out.println("hola");
+        System.out.println(9L);
     }
 }
