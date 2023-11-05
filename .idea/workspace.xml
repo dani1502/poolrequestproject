@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="121ac099-9752-4451-909e-abc9c9fa784e" name="Changes" comment="firstcommit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="121ac099-9752-4451-909e-abc9c9fa784e" name="Changes" comment="firstcommit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +15,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ketterle"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9eb52c06-d5f3-46e2-92b9-509567b71634" />
+        <option name="url" value="https://github.com/dani1502/poolrequestproject.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698937130531</updated>
       <workItem from="1698938025802" duration="2162000" />
-      <workItem from="1699181686023" duration="704000" />
+      <workItem from="1699181686023" duration="1198000" />
     </task>
     <task id="LOCAL-00001" summary="firstcommit">
       <created>1698937224394</created>
